@@ -1,0 +1,15 @@
+theme = ["reveal-hugo"]
+baseurl = "http://localhost"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+# use Hugo's hl in markdown (with or without a language tag)
+[markup.highlight]
+codeFences = true
+style = "github"
