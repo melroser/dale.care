@@ -1,0 +1,7 @@
+.DS_STORE
+content/ballerina/*.jpg
+content/paintings/*.jpg
+content/sketches/*.jpg
+public
+resources
+.hugo_build.lock

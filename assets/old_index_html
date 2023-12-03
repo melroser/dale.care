@@ -1,0 +1,82 @@
++++
+title = "My presentation"
+outputs = ["Reveal"]
++++
+
+# Hello world!
+
+This is my first slide.
+
+---
+
+# Goodbye world!
+
+This is my second slide.
+
+---
+
+# Hello Mars!
+
+This is my third slide.
+
+---
+
+# Mermaid Diagrams
+
+Check it out cool graphics bro
+
+---
+
+# Sections
+
+This is how you would make slide secitons
+
+---
+
+## Section slide 1
+
+thret woudl bne sec     
+
+---
+
+
+# Section slide 2
+
+
+hi
+---
+
+# With Heading
+
+
+# Section slide 1
+
+
+---
+
+
+# Section slide 2
+
+
+---
+
+# Slide Attributes
+
+---
+
+
+#Transitions
+
+## Zooming Slide!
+
+
+---
+
+
+
+## Background Slide!
+
+---
+
+
+## Background Image
