@@ -1,6 +1,14 @@
 theme = ["reveal-hugo"]
 baseurl = "http://localhost"
 
+[logo]
+src = "tr-logo.png"
+alt = "health cards logo" # Alt text. 
+width = "15%" # Size of the file.
+diag = "1%" # How far from the top right should the file be.
+top = "1%" # Overrides diag.
+right = "1%" # Overrides diag.
+
 [markup.goldmark.renderer]
 unsafe = true
 
@@ -12,4 +20,4 @@ isHTML = true
 # use Hugo's hl in markdown (with or without a language tag)
 [markup.highlight]
 codeFences = true
-style = "github"
+style = "reveal-hugo"
